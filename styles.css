@@ -1,0 +1,7 @@
+.background-image{
+      background-image: url('https://www.elsevier.com/__data/assets/image/0004/823261/information-system-supporting-science.jpg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      width:10000%;
+      height:100px;
+    }
